@@ -12,7 +12,16 @@
     <div>
       <div class="tw-flex tw-w-full tw-items-center tw-mb-5">
         <!-- TODO: remove dropdown condit
-          NFT
+     v class="tw-flex tw-relative">
+    <img alt="10% Discount on all CoinTracking plans" class="tw-object-cover tw-rounded-xl tw-aspect-[21/11] tw-w-full" loading="lazy" src="https://assets.coingecko.com/rewards/images/275/Logo_1920_x_1080_-_Berken_Menges.png?1675314674" />
+  </div>
+  <div class="tw-grow tw-flex tw-flex-col tw-justify-between tw-h-full tw-w-full">
+    <div><div data-view-component="true" class="tw-mt-5 tw-mb-4 tw-font-bold tw-text-gray-900 dark:tw-text-moon-50 tw-text-lg tw-leading-7">
+  10% Discount on all CoinTracking plans
+</div></div>
+    <div>
+      <div class="tw-flex tw-w-full tw-items-center tw-mb-5">
+        <!-- TODO: remove dropdown condit       NFT
  v class="tw-flex tw-relative">
     <img alt="10% Discount on all CoinTracking plans" class="tw-object-cover tw-rounded-xl tw-aspect-[21/11] tw-w-full" loading="lazy" src="https://assets.coingecko.com/rewards/images/275/Logo_1920_x_1080_-_Berken_Menges.png?1675314674" />
   </div>
