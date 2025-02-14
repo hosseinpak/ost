@@ -1,6 +1,7 @@
 
   
 </span>        <span data-url="/en/candy?category=NFT" data-action="click-&gt;application#navigateToUrl" data-view-component="true" class="tw-cursor-pointer dropdown-item dark:tw-text-moon-100 dark:hover:tw-bg-moon-700 dark:hover:tw-text-moon-50 hover:tw-bg-gray-100 hover:tw-text-gray-900 tw-flex tw-items-center tw-py-3 tw-px-2 tw-rounded-lg tw-font-semibold tw-text-gray-700 tw-text-sm">
+  </span>        <span data-url="/en/candy?category=NFT" data-action="click-&gt;application#navigateToUrl" data-view-component="true" class="tw-cursor-pointer dropdown-item dark:tw-text-moon-100 dark:hover:tw-bg-moon-700 dark:hover:tw-text-moon-50 hover:tw-bg-gray-100 hover:tw-text-gray-900 tw-flex tw-items-center tw-py-3 tw-px-2 tw-rounded-lg tw-font-semibold tw-text-gray-700 tw-text-sm">
   
   v class="tw-flex tw-relative">
     <img alt="10% Discount on all CoinTracking plans" class="tw-object-cover tw-rounded-xl tw-aspect-[21/11] tw-w-full" loading="lazy" src="https://assets.coingecko.com/rewards/images/275/Logo_1920_x_1080_-_Berken_Menges.png?1675314674" />
